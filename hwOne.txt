@@ -1,1 +1,1 @@
-Hello, my name is "Gabriel Fok"
+Hello, my name is "Gabriel Fok" and I am working on hw1
